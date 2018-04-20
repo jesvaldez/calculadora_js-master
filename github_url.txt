@@ -1,1 +1,1 @@
-https://github.com/jesvaldez/calculadora_js-master/blob/master/github_url.txt
+https://github.com/jesvaldez/calculadora_js-master
